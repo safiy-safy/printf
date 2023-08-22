@@ -1,6 +1,6 @@
 0x11. C - printf team project
 
-Group Project : Usman Mohammed , Safiya Safy                                                                      
+Group Project : Safy Safy                                                                      
 
 TASK TO BE COMPLETED ARE AS FOLLOWS:
                                                                                     

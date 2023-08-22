@@ -111,12 +111,5 @@ int is_digit(char);
 
 long int convert_size_number(long int num, int size);
 long int convert_size_unsgnd(unsigned long int num, int size);
-<<<<<<< HEAD
 
-#endif/* MAIN_H */
-
-
-=======
-#endif
-/* MAIN_H */
->>>>>>> f883af246e5a9a7d47a5422b4686ca15e028a169
+#endif /* MAIN_H */
