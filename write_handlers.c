@@ -128,7 +128,6 @@ return (write_num(ind, buffer, flags, width, precision,
 length, padd, extra_ch));
 
 }
- 
  /**
  * write_num - Write a number using a bufffer
  * @ind: Index at which the number starts on the buffer
@@ -236,7 +235,6 @@ return (write(1, &buffer[ind], length));
 
 
 /**
-
  * write_unsgnd - Writes an unsigned number
  * @is_negative: Number indicating if the num is negative
  * @ind: Index at which the number starts in the buffer
